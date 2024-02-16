@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-plus-jakarta-sans: "Plus Jakarta Sans";
+  
+    /* font sizes */
+    --font-size-sm: 14px;
+    --font-size-base: 16px;
+  
+    /* Colors */
+    --color-ghostwhite: #f5f0fa;
+    --color-darkorchid: #6108ab;
+    --color-indigo: #7533ad;
+    --color-gray: #170a21;
+  
+    /* Gaps */
+    --gap-45xl: 64px;
+    --gap-base: 16px;
+  
+    /* Paddings */
+    --padding-41xl: 60px;
+    --padding-base: 16px;
+    --padding-12xs: 1px;
+  }
+  
